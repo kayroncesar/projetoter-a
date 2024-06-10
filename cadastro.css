@@ -1,0 +1,26 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: linear-gradient(to left,black, white);
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+ li{
+    display:inline-block;
+    margin: 20px;
+    color: azure;
+
+ }
+#cad{
+    margin-top: 50%;
+    width: 9%;
+    height: 400px;
+    margin: 10px;
+    padding: 70px;
+    border-radius: 0%;
+}
